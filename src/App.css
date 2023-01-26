@@ -4,3 +4,9 @@
 .img{
   height: 100px;
 }
+
+img{
+  height: 12vh;
+  width: auto;
+  text-align: center;
+}
